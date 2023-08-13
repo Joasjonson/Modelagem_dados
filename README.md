@@ -10,7 +10,7 @@ O cliente deseja coletar dados pessoais de clientes, incluindo informações par
 
 O produto principal são livros, com informações como título, categoria, ISBN, ano de publicação, valor, editora e autor(a).
 
-Editoras fornecem os livros, com detalhes de contato como telefone, nome de contato, e-mail e até 2 telefones.
+Os livros são fornecidos por editoras, com detalhes de contato como telefone, nome de contato, e-mail e até 2 telefones.
 
 ## Passos da Modelagem de Dados
 
