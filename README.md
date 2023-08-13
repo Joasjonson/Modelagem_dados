@@ -2,6 +2,8 @@
 
 Este projeto de modelagem de dados visa criar um sistema de gerenciamento de uma livraria, abrangendo informações sobre clientes, livros, editoras, pedidos de compra e controle de estoque. Inclui os passos realizados desde a entrevista com o cliente até a execução dos scripts SQL no banco de dados.
 
+O objetivo é criar os diagramas, os modelos em seus passos e deixa-lo pronto para inserção/carga dos dados .
+
 ## Entrevista com o Cliente
 
 O cliente deseja coletar dados pessoais de clientes, incluindo informações para pessoa física (CPF e RG) ou pessoa jurídica (CNPJ e IE), além de nome, endereço, telefone e e-mail.
